@@ -1,0 +1,1 @@
+<img src="{{ asset('images/coctel-logo.webp') }}" alt="Logo" class="h-16 w-auto">
